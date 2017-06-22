@@ -19,6 +19,7 @@ namespace NB00M
     {
         #region Primitive Properties
     string pippo;
+	string giovanni;
         public virtual int ID
         {
             get;
