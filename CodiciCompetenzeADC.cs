@@ -18,7 +18,7 @@ namespace NB00M
     public partial class CodiciCompetenzeADC
     {
         #region Primitive Properties
-    
+    string pippo;
         public virtual int ID
         {
             get;
